@@ -25,14 +25,14 @@ global.location = "India, West Bengal, Darjeeling" //ur location
 global.ownernomer = "918348225320" //ur number
 global.ownertag = '918348225320' //ur tag number
 global.premium = ['918348225320'] //ur premium number
-global.botname = 'Nandita-Bot' //ur bot name
+global.botname = 'Zenitsu-Bot' //ur bot name
 global.ownername = "🦄Dream Guy Deepak"
 global.linkz = "https://i.ibb.co/YPGXwjM/images-2.jpg" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/@dreamguydeepak" //ur website to be displayed
 global.botscript = 'https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Nandita-Bot\n\n\nA whatsapp bot developed by\n🦄Dream Guy Deepak" //ur sticker watermark author
+global.author = "Zenitsu-Bot\n\n\nA whatsapp bot developed by\n🦄Dream Guy Deepak" //ur sticker watermark author
 global.wm = "Deepak" //ur watermark
 
 // Other
