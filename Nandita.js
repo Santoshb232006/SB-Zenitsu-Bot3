@@ -72,7 +72,7 @@ async function startDeepakBotInc() {
     const DeepakBotInc = DeepakBotIncConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['Cheems Bot MD','Safari','1.0.0'],
+        browser: ['Zenitsu-Bot3','Safari','1.0.0'],
         auth: state
     })
 
@@ -176,7 +176,7 @@ I am *ZenitsuBot*,
   *Group Description:*
 ${metadata.desc} `
 let buttons = [
-{buttonId: `wkwwk`, buttonText: {displayText: 'Welcome 💐'}, type: 1}
+{buttonId: `wkwwk`, buttonText: {displayText: 'Welcome❤‍🩹'}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./DeepakMedia/theme/cheems.xlsx'),
@@ -213,7 +213,7 @@ Member : ${xmembers}th
 Left : ${xtime} ${xdate}
   `
 let buttons = [
-{buttonId: `wkwkwk`, buttonText: {displayText: 'Sayonara 🥀'}, type: 1}
+{buttonId: `wkwkwk`, buttonText: {displayText: 'Bye Bye🤣'}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./DeepakMedia/theme/cheems.xlsx'),
