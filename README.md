@@ -74,7 +74,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/qa_ia0?referralCode=_Hy7Gv)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/cXaFMH?referralCode=_Hy7Gv)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGDEEPAK/Zenitsu-Bot/)
 
