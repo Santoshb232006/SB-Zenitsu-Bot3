@@ -16,7 +16,7 @@ Big thanks❤️ to <a href="https://github.com/DGXeon" target="_blank">Xeon</a>
 ---
 
 <p align="center">
-<a href="https://github.com/DGXeon/CheemsBot-MD6"><img title="Size" src="https://img.shields.io/badge/SPARKY-BOT-green"></a>
+<a href="https://github.com/DGXeon/CheemsBot-MD6"><img title="Size" src="https://img.shields.io/badge/CheemsBot-MD6-green"></a>
 </p>
 
 ------
