@@ -88,7 +88,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ## `Clone Repo & Installation dependencies`
 ```bash
 git clone https://github.com/DGDEEPAK/Zenitsu-Bot3.git
-cd Zenitsu-Bot 
+cd Zenitsu-Bot3 
 
 npm start
 ```
@@ -105,8 +105,8 @@ pkg install ffmpeg -y
 pkg install wget
 pkg install yarn
 pkg install imagemagick -y
-git clone https://github.com/DGDEEPAK/Zenitsu-Bot
-cd Zenitsu-Bot 
+git clone https://github.com/DGDEEPAK/Zenitsu-Bot3
+cd Zenitsu-Bot3 
 yarn install
 node .
 ```
@@ -119,8 +119,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/DGDEEPAK/Zenitsu-Bot
-cd Zenitsu-Bot
+git clone https://github.com/DGDEEPAK/Zenitsu-Bot3
+cd Zenitsu-Bot3
 yarn install 
 node .
 ```
