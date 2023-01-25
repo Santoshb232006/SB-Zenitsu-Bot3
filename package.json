@@ -1,10 +1,10 @@
 {
-  "name": "DeepakBot-MD",
+  "name": "Zenitsu-Bot3",
   "version": "6.0.0",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "type": "commonjs",
   "scripts": {
-    "start": "node --max_old_space_size=8192 index.js"
+    "start": "node Nandita.js"
   },
   "keywords": [
     "termux",
@@ -81,10 +81,10 @@
     "src": "src"
   },
   "devDependencies": {},
-  "repository": "git+https://github.com/DGXeon/CheemsBot-MD6.git",
+  "repository": "git+https://github.com/DGDEEPAK/Zenitsu-Bot3.git",
   "bugs": {
-    "url": "https://github.com/DGXeon/CheemsBot-MD6/issues"
+    "url": "https://github.com/DGDEEPAK/Zenitsu-Bot3/issues"
   },
-  "homepage": "https://github.com/DGXeon/CheemsBot-MD6/#readme",
-  "main": "index.js"
+  "homepage": "https://github.com/DGDEEPAK/Zenitsu-Bot3/#readme",
+  "main": "Nandita.js"
 }
